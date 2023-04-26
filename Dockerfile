@@ -1,2 +1,3 @@
 FROM mocksserver/main
+EXPOSE 3101
 EXPOSE 3100
